@@ -1,0 +1,19 @@
+h2 a, h1 {
+    color: #7d4f50;
+}
+h2 a:hover {
+    color: #cc8b86;
+    text-decoration: none;
+}
+p:first-child{
+    color: #a33b20;
+}
+p{
+    color: #110a08;
+}
+a{
+    color: #110a08;
+}
+a:hover{
+    color: #110a08;
+}

@@ -1,0 +1,4 @@
+C:\Users\stage\AppData\Local\Programs\Python\Python36\Scripts\
+C:\Users\stage\AppData\Local\Programs\Python\Python36\
+C:\Users\stage\AppData\Local\Programs\Python\Python36-32\Scripts\
+C:\Users\stage\AppData\Local\Programs\Python\Python36-32\
